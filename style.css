@@ -5,15 +5,20 @@
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: black;
+    color: rgb(0, 0, 0);
     text-align: center;
-    background-color: white;
+    background-color: rgb(255, 227, 227);
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color:rgb(0, 0, 0);
     text-align: center;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+.image {
+    width: 200px;
+
 }
