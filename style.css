@@ -13,9 +13,9 @@ body {
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: #261D20;
     padding: 10px;
 }
 
@@ -23,11 +23,12 @@ body {
     width: 400px;
     border-style: double;
     border-radius: 10px;
-    border-color: rgb(56, 163, 208);
+    border-color: rgb(255, 227, 227);
 
 }
 
 h1 {
+    color:rgb(255, 255, 255);
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   padding: 10px;
@@ -35,8 +36,15 @@ h1 {
 }
 
 p {
+    color: rgb(255, 255, 255);
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
+}
+
+ul {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  color: rgb(255, 255, 255);
 }
 
 .container {
