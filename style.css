@@ -1,14 +1,15 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
-    color: black;
+    color: #261D20;
+    margin-left: 200px;
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: rgb(0, 0, 0);
+    color: #261D20;
     text-align: center;
-    background-color: rgb(255, 227, 227);
+    background-color: rgb(255, 227, 277);
 }
 
 
@@ -32,7 +33,7 @@ h1 {
     color:rgb(255, 255, 255);
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  padding: 10px;
+
 
 }
 
